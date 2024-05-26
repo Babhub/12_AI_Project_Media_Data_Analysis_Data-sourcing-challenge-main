@@ -1,2 +1,1 @@
-# 12_AI_Project_Media_Data_Analysis_Data-sourcing-challenge-main
-12_AI_Project_Media_Data_Analysis_Data-sourcing-challenge-main
+# Data-sourcing-challenge
